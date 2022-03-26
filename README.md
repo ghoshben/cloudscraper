@@ -32,7 +32,7 @@ If you feel like showing your love and/or appreciation for this project, then ho
 
 # Installation
 
-Simply run `pip install git+https://github.com/ghoshben/cloudscraper.git`. The PyPI package is at https://pypi.python.org/pypi/cloudscraper/
+Simply run `pip install git+https://github.com/ghoshben/cloudscraper.git`. 
 
 Alternatively, clone this repository and run `python setup.py install`.
 
